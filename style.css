@@ -1,0 +1,14 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana;}
+.maindiv{background-color: white;color:black;width: 500px;padding: 20px; border-radius: 25px;}
+.center{margin-left:10%}
+label {
+    width:100px;
+    clear:left;
+    text-align:left;
+    padding-right:10px;
+}
+
+input, label,select {
+    float:left;
+}
